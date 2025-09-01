@@ -1,4 +1,4 @@
-// Tailwind v4 PostCSS plugin name changed
+// postcss.config.js — Tailwind v4 plugin name
 module.exports = {
   plugins: {
     "@tailwindcss/postcss": {},
