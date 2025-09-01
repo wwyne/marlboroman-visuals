@@ -17,6 +17,7 @@
     "tailwindcss": "latest",
     "postcss": "latest",
     "autoprefixer": "latest"
+    "@tailwindcss/postcss": "latest"
   },
   "devDependencies": {
     "typescript": "latest",
